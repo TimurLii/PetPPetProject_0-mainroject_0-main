@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/PetProject_0-main/sweater-SpringSecurity/sweater-SpringSecurity/src/main/resources/db.migration/V1__Init_DB.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/PetProject_0-main/sweater-SpringSecurity/sweater-SpringSecurity/src/main/resources/db.migration/V2__Add_admin.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/PetProject_0-main/sweater-SpringSecurity/sweater-SpringSecurity/src/main/resources/db.migration/V3__Encode_passwords.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/PetProject_0-main/sweater-SpringSecurity/sweater-SpringSecurity/src/test/resources/create-user-after.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/PetProject_0-main/sweater-SpringSecurity/sweater-SpringSecurity/src/test/resources/create-user-before.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/PetProject_0-main/sweater-SpringSecurity/sweater-SpringSecurity/src/test/resources/messages-list-after.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/PetProject_0-main/sweater-SpringSecurity/sweater-SpringSecurity/src/test/resources/messages-list-before.sql" dialect="MySQL" />
+  </component>
+  <component name="SqlResolveMappings">
+    <file url="file://$PROJECT_DIR$/PetProject_0-main/sweater-SpringSecurity/sweater-SpringSecurity/src/test/resources/create-user-before.sql" scope="{&quot;node&quot;:{  &quot;@negative&quot;:&quot;1&quot;,  &quot;group&quot;:{   &quot;@kind&quot;:&quot;root&quot;,   &quot;node&quot;:{    &quot;@negative&quot;:&quot;1&quot;   }  } }}" />
+  </component>
+</project>
